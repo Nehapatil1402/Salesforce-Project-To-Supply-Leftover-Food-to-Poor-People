@@ -6,6 +6,6 @@
 
 #output of each Step followed in this app development is present in respective name folder. 
 
-#Also Apex Trigger code used is displayed in file with extension 'apex'.
+#Also Apex Trigger code used is displayed in file with extension 'apxt'.
 
 #Report of Detailed Explaination of Implemaentation of App is given.
